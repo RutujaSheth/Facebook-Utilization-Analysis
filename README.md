@@ -13,4 +13,4 @@
 - Obtained result will help the company to utilize these patterns in the next set of iteration development.
 - Maybe this hidden pattern could end up **improving their application and the user experience.**
 
-![](https://chi2016.acm.org/wp/wp-content/uploads/2016/02/Facebook-06-2015-Blue.png)]
+![](https://chi2016.acm.org/wp/wp-content/uploads/2016/02/Facebook-06-2015-Blue.png)
